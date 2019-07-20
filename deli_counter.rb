@@ -1,6 +1,3 @@
-# Build the line method that shows everyone their current place in the line. If there is nobody in line, it should say "The line is currently empty."
-# The take_a_number method should call out (puts) the person's name along with their position in line.
-# The now_serving method which should call out (i.e. puts) the next person in line and then remove them from the front
 
 katz_deli = []
 
