@@ -6,7 +6,7 @@ def line (array)
   else 
       resp = "The line is currently: " 
       array.each_with_index do |name, index|
-       resp += "#{index + 1}. #{name}"
+        resp += "#{index + 1}. #{name}"
   end
   puts resp
   end
